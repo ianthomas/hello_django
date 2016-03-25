@@ -1,2 +1,2 @@
 # hello_django
-written by Ian
+written by Ian & Josiah
